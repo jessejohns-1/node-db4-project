@@ -1,7 +1,7 @@
 const recipes = [
-    { recipe_name: 'turtle soup'},
-    { recipe_name: 'turtle salad'},
-    { recipe_name: 'turtled turtle'},
+    { recipe_name: 'Pastaaaa'},
+    { recipe_name: 'chicken'},
+    { recipe_name: 'fishy'},
     ]
     
     const ingredients = [
